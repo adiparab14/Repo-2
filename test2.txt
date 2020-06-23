@@ -1,1 +1,2 @@
-This is the second file. Hello
+This is the second file.
+Updating for new branch.
